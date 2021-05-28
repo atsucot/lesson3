@@ -159,6 +159,7 @@ a {
   width: 150px;
   height: 100px;
   margin-top: 30px;
+  text-align: center;
 }
 
 .img-service2 {
@@ -209,6 +210,7 @@ a {
   color: white;
   font-size: 13px;
   line-height: 24px;
+  text-align: center;
 }
 
 .sample-text2 {
@@ -236,18 +238,13 @@ a {
   color: white;
 }
 
-.img-service {
-  text-align: center;
-}
-
-.itemA {
-  text-align: center;
-}
-
 .bb {
   float: left;
 }
 
 .cc {
   float: left;
+}
+
+.card-img {
 }
