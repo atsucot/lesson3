@@ -95,6 +95,13 @@ a {
   width: 900px;
 }
 
+.news-info1 {
+  border-bottom: solid 3px dimgrey;
+  margin-left: 100px;
+  margin-right: 350px;
+  margin-bottom: 10px;
+}
+
 .news-nav-item {
   padding: 20px;
   width: ;
@@ -114,6 +121,7 @@ a {
   text-align: center;
   margin: 20px;
   margin-top: 100px;
+  color:deeppink;
 }
 .main-title {
   text-align: center;
@@ -286,18 +294,26 @@ a {
 
 .card-img {
   position: absolute;
-  border-top-left-radius: 30px;
-  border-top-right-radius: 30px;
+  
+}
+
+.blogblog {
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
 }
 
 .t-blog {
   position: absolute;
-  width: 40px;
-  height: 20px;
-  background: crimson;
+  top: 0;
+  width: 60px;
+  height: 30px;
+  background:mediumvioletred;
   margin-bottom: 100px;
   font-size: 15px;
   color: white;
+  border-top-left-radius: 20px;
+  text-align: center;
+  line-height: 2;
 }
 
 .card-date {
@@ -407,6 +423,8 @@ table th {
 .q {
   text-align: center;
   margin-top: 100px;
+  font-weight: bold;
+  color: dimgrey;
 }
 
 .line {
@@ -435,3 +453,5 @@ table th {
 small {
   margin-top: 100px;
   margin-left: 550px;
+  color:dimgray;
+  font-size: 15px;
