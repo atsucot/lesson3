@@ -286,6 +286,8 @@ a {
 
 .card-img {
   position: absolute;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
 
 .t-blog {
