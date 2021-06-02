@@ -150,10 +150,9 @@ a {
 }
 .main-about {
   position: absolute;
-  bottom: 30px;
   font-size: 13px;
   line-height: 30px;
-  margin-left: 200px;
+  margin-left: 20%;
   color: slategray;
 }
 
@@ -196,7 +195,7 @@ a {
   display: grid;
   grid-template-rows: 150px 150px;
   grid-template-columns: 400px 400px;
-  margin: 100px auto 0;
+  justify-content: center;
 }
 
 .itemA {
@@ -396,7 +395,9 @@ table th {
   position: absolute;
   color: white;
   font-size: 30px;
-  margin: 100px auto 0;
+  margin: 11% auto 0;
+  width: 50%;
+  text-align: center;
   
 }
 
@@ -405,11 +406,12 @@ table th {
   height: 300px;
 }
 .interview {
-  margin-top: 150px;
   position: absolute;
-  margin-left: 700px;
+  margin-left: 65%;
+  margin-top: 11%;
   color: white;
   font-size: 30px;
+  ;
 }
 
 .int-img {
