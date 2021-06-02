@@ -154,9 +154,11 @@ a {
   line-height: 30px;
   margin-left: 20%;
   color: slategray;
-  background:lightsteelblue;
-}
+  }
 
+  .background {
+    background: lightsteelblue;
+  }
 .service {
   margin-left: 250px;
   margin-top: 100px;
