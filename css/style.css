@@ -29,7 +29,7 @@ a {
 }
 
 .eyecatch-img-container {
-  width: 70%;
+  width: 60%;
   margin: 0px 0 0 auto;
 }
 
@@ -46,6 +46,7 @@ a {
   font-size: 80px;
   color: deeppink;
   line-height: 100px;
+  margin-left: 13%;
 }
 
 .catch-copy2 {
@@ -54,6 +55,7 @@ a {
   font-size: 40px;
   font-weight: bold;
   color: deeppink;
+  margin-left: 13%;
 }
 
 .catch-copy3 {
@@ -61,6 +63,7 @@ a {
   bottom: 20%;
   color: darkslategray;
   line-height: 24px;
+  margin-left: 13%;
 }
 
 .catch-copy span {
@@ -298,6 +301,8 @@ a {
 
 .blog-card {
   position: relative;
+  background: #fff;
+
 }
 
 .card-img {
