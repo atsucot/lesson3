@@ -296,13 +296,13 @@ a {
   margin-left: 20px;
   margin-right: 60px;
   margin-top: 200px;
-  background: lightsteelblue;
-}
+  }
 
 .blog-card {
   position: relative;
   background: #fff;
-
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 .card-img {
