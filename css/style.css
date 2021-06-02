@@ -294,15 +294,17 @@ a {
   font-size: 13px;
   line-height: 2;
   margin-left: 20px;
-  margin-right: 60px;
+  margin-right: 20px;
   margin-top: 200px;
   }
 
 .blog-card {
   position: relative;
   background: #fff;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  border-radius: 20px;
+  width: 240px;
+  margin-right: 50px;
+
 }
 
 .card-img {
