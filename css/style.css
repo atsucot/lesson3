@@ -134,7 +134,8 @@ a {
   color: slategray;
 }
 .main-img {
-  position: relative;
+  display: flex;
+  flex-direction: row-reverse;
 }
 
 .main-img-container {
@@ -149,7 +150,6 @@ a {
   display: block;
 }
 .main-about {
-  position: absolute;
   font-size: 13px;
   line-height: 30px;
   margin-left: 20%;
