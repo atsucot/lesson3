@@ -154,6 +154,7 @@ a {
   line-height: 30px;
   margin-left: 20%;
   color: slategray;
+  background: ;
 }
 
 .service {
@@ -335,6 +336,7 @@ a {
 
 .card-content {
   color: slategray;
+  background: white;
 }
 
 
