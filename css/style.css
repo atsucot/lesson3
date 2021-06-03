@@ -309,6 +309,19 @@ a {
 
 }
 
+.blog-card3 {
+  position: relative;
+  background: #fff;
+  border-radius: 20px;
+  width: 40%;
+  margin-right: px;
+
+}
+
+
+
+
+
 .tag {
   display: flex;
 }
