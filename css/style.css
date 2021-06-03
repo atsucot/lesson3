@@ -77,13 +77,13 @@ a {
   color: deeppink;
   font-family: ;
   margin-bottom: 10px;
-  margin-left: 100px;
+  margin-left: 20%;
   margin-top: 100px;
 }
 
 .news2 {
   font-size: 30px;
-  margin-left: 100px;
+  margin-left: 20%;
   margin-top: 20px;
   color: slategray;
 
@@ -94,7 +94,7 @@ a {
   border-bottom: solid 3px slategray;
   border-top: solid 3px slategray;
   padding-top: 30px;
-  margin: 100px auto 0;
+  margin: 30px auto 0;
   padding-bottom: 40px;
   width: 800px;
 }
@@ -154,7 +154,7 @@ a {
 }
 .main-about {
   font-size: 13px;
-  line-height: 30px;
+  line-height: 1.5;
   margin-left: 20%;
   color: slategray;
   }
@@ -173,6 +173,7 @@ a {
 .service2 {
   margin-left: 250px;
   font-size: 30px;
+  font-weight: bold;
   color: slategray;
   margin-bottom: 30px;
 }
@@ -199,8 +200,8 @@ a {
 /* コンテナ */
 .s-container {
   display: grid;
-  grid-template-rows: 150px 150px;
-  grid-template-columns: 400px 400px;
+  grid-template-rows: 170px 170px;
+  grid-template-columns: 430px 430px;
   justify-content: center;
 }
 
@@ -231,7 +232,7 @@ a {
   margin-left: 50px;
   margin-right: 50px;
   color: white;
-  font-size: 13px;
+  font-size: 13.5px;
   line-height: 24px;
   text-align: left;
 }
@@ -249,14 +250,14 @@ a {
 }
 .service-text2 {
   text-align: left;
-  margin-bottom: 10px;
+  margin-bottom: 5%;
   margin-top: 30px;
   color: white;
 }
 
 .service-text3 {
   text-align: left;
-  margin-bottom: 10px;
+  margin-bottom: 5%;
   margin-top: 30px;
   color: white;
 }
@@ -277,6 +278,7 @@ a {
 
 .blog-ttl {
   font-size: 30px;
+  font-weight: bold;
   line-height: 1.5;
   margin-bottom: 30px;
   margin-left: 250px;
@@ -371,7 +373,7 @@ a {
 table {
   width: 50%;
   border-collapse: collapse;
-  margin-left: 300px;
+  margin-left: 18%;
   margin-right: px;
   margin-top: 30px;
   color: slategray;
@@ -398,6 +400,7 @@ table th {
   color: slategray;
   margin-left: 250px;
   font-size: 30px;
+  font-weight: bold;
   line-height: 2;
 }
 
