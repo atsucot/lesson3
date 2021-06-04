@@ -86,7 +86,6 @@ a {
   margin-left: 20%;
   margin-top: 20px;
   color: slategray;
-
 }
 
 .newsnews {
@@ -107,8 +106,6 @@ a {
   width: 800px;
 }
 
-
-
 .news-nav-item {
   padding: 20px;
   width: ;
@@ -128,7 +125,7 @@ a {
   text-align: center;
   margin: 20px;
   margin-top: 100px;
-  color:deeppink;
+  color: deeppink;
   padding: 10px;
 }
 .main-title {
@@ -158,11 +155,11 @@ a {
   line-height: 1.5;
   margin-left: 20%;
   color: slategray;
-  }
+}
 
-  .background {
-    background: lightsteelblue;
-  }
+.background {
+  background: lightsteelblue;
+}
 .service {
   margin-left: 250px;
   margin-top: 100px;
@@ -301,7 +298,7 @@ a {
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 6%;
-  }
+}
 
 .blog-card {
   position: relative;
@@ -309,7 +306,6 @@ a {
   border-radius: 20px;
   width: 40%;
   margin-right: 50px;
-
 }
 
 .blog-card3 {
@@ -317,28 +313,17 @@ a {
   background: #fff;
   border-radius: 20px;
   width: 40%;
-  margin-right: px;
-
 }
-
-
-
-
 
 .tag {
   display: flex;
-  width: 30%;
-}
-
-
-.card-img {
-   
+  justify-content: space-between;
 }
 
 .blogblog {
-   border-top-left-radius: 20px;
-   border-top-right-radius: 20px;
-   width: 100%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 100%;
 }
 
 .t-blog {
@@ -346,7 +331,7 @@ a {
   top: 0;
   width: 60px;
   height: 30px;
-  background:mediumvioletred;
+  background: mediumvioletred;
   margin-bottom: 100px;
   font-size: 15px;
   color: white;
@@ -355,26 +340,22 @@ a {
   line-height: 2;
 }
 
-
 .card-date {
   margin-top: 10%;
-  margin-left: 15px;
   display: inline-block;
   font-size: 15px;
-  }
+}
 
 .card-tag {
   margin-top: 10%;
   display: inline-block;
-  margin-left: 50%;
   font-size: 13px;
 }
 
 .card-content {
   color: slategray;
-  background:;
+  padding: 10px;
 }
-
 
 .btn {
   width: 200px;
@@ -434,10 +415,9 @@ table th {
   position: absolute;
   color: white;
   font-size: 30px;
-  margin: 11% auto 0;
+  margin: 134px auto;
   width: 50%;
   text-align: center;
-  
 }
 
 .rec-img {
@@ -446,11 +426,10 @@ table th {
 }
 .interview {
   position: absolute;
-  margin-left: 65%;
-  margin-top: 11%;
+  margin-left: 66%;
+  top: 45%;
   color: white;
   font-size: 30px;
-  ;
 }
 
 .int-img {
@@ -477,15 +456,16 @@ table th {
   text-align: center;
   border-radius: 30px;
   border: ;
-    background: linear-gradient(#ff34ff, #8646ff);
+  background: linear-gradient(#ff34ff, #8646ff);
   line-height: 3;
   color: white;
   box-shadow: 0px 5px 0px darkslateblue;
   margin: 20px auto 0;
 }
 
-.copyright{
+.copyright {
   text-align: center;
-  color:dimgray;
+  color: dimgray;
   font-size: 15px;
   margin-top: 5%;
+}
