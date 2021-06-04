@@ -129,6 +129,7 @@ a {
   margin: 20px;
   margin-top: 100px;
   color:deeppink;
+  padding: 10px;
 }
 .main-title {
   text-align: center;
@@ -168,6 +169,7 @@ a {
   color: deeppink;
   font-size: 15px;
   line-height: 1.5;
+  padding: 10px;
 }
 
 .service2 {
@@ -274,6 +276,7 @@ a {
   color: deeppink;
   margin-top: 100px;
   margin-left: 250px;
+  padding: 10px;
 }
 
 .blog-ttl {
@@ -324,6 +327,7 @@ a {
 
 .tag {
   display: flex;
+  width: 30%;
 }
 
 
@@ -362,7 +366,7 @@ a {
 .card-tag {
   margin-top: 10%;
   display: inline-block;
-  margin-left: 20px;
+  margin-left: 50%;
   font-size: 13px;
 }
 
@@ -386,7 +390,7 @@ a {
 table {
   width: 50%;
   border-collapse: collapse;
-  margin-left: 18%;
+  margin-left: 24%;
   margin-right: px;
   margin-top: 30px;
   color: slategray;
@@ -406,12 +410,12 @@ table th {
 .company {
   color: deeppink;
   margin-top: 50px;
-  margin-left: 250px;
+  margin-left: 24%;
 }
 
 .about-company {
   color: slategray;
-  margin-left: 250px;
+  margin-left: 24%;
   font-size: 30px;
   font-weight: bold;
   line-height: 2;
